@@ -11,4 +11,4 @@
 - Save In Local Storage
 
 # Link
-https://saleh0987.github.io/CRUDS/
+https://saleh0987.github.io/Cruds-app/
